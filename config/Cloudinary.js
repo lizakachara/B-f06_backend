@@ -1,4 +1,4 @@
-import{v2 as Cloudinary} from 'Cloudinary'
+import{v2 as Cloudinary} from 'cloudinary'
 import {HttpsProxyAgent} from "https-proxy-agent"
 import 'dotenv/config'
 
